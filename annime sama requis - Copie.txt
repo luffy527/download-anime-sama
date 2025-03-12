@@ -1,0 +1,3 @@
+ C:\Users\\Downloads\anime-sama_downloader-main\anime-sama_downloader-main\anime_sama_api\cli
+
+ poetry run python -m anime_sama_api.cli
